@@ -1,0 +1,19 @@
+{
+    "name": "jenniferd/nutrition-api",
+    "description": "API for personal nutrition tracking app",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jenniferd\\NutritionApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jennifer",
+            "email": "do.jen@hotmail.com"
+        }
+    ]
+}

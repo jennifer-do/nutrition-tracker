@@ -1,0 +1,22 @@
+# Backend environment variables
+/backend/.env
+/backend/.env.*
+
+# Composer dependencies
+/backend/vendor/
+
+# Frontend dependencies
+/frontend/node_modules/
+
+# Angular build output
+/frontend/dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+!/backend/.env.example
